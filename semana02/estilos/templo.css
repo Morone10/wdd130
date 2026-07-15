@@ -30,7 +30,7 @@ h1 {
 
 picture {
    display: block; 
-   margin-bottom: 30px;
+   margin-bottom: 30px;  
 }
 
 img {
@@ -38,6 +38,7 @@ img {
    height: auto; 
    box-shadow: 0 0 10px #8b8383;
    border: 10px solid white;
+   height: auto;
 }
 
 section {
