@@ -38,16 +38,17 @@ aside {
 aside img {
     width: 200px;
     height: auto;
+    box-shadow: 0 0 30px gray;
 }
 
 main img {
     width: 150px;
-    height: auto;
+    height: auto;    
 }
 
 footer {
     margin-top: 10px;
     border-top: 1px solid gray;
-    text-align: auto;
+    text-align: center;
 }
 
