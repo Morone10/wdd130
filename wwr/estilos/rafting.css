@@ -34,8 +34,14 @@ nav, p, section, article {
 .socialmedia a {
     text-decoration: none;
 }
-.hero article {
+.hero {
     position: relative;
+}
+.hero h1 {
+    position: absolute;
+}
+.hero article {
+    position: absolute;
 }
 .hero img {
     display: block;
