@@ -25,11 +25,15 @@ main img {
     float: right;    
 }
 p {
-    padding: 10px;
+    padding: 0px;
 }
 
 aside {
     width: 20rem;
+    margin: 15px;
+    border: 2px solid black;
+    padding: 4px;
+    background-color: gray;
     color: #333;
     text-align: center;
     position: relative;
@@ -59,4 +63,7 @@ footer {
     padding: 1em;
     background-color: #ddd;
     color: #000;
+}
+main {
+    max-width: 500px;
 }
