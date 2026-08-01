@@ -8,6 +8,10 @@
 header {
     background-color: var(--cor-primaria);
     color: var(--cor-destaque2);
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    align-items: center;
+    padding: 15px;
 }
 * {
     margin: 0;
@@ -65,12 +69,6 @@ h1 {
 .hero article img {
     float: right;
     width: 125px;
-}
-header {
-    display: grid;
-    grid-template-columns: 180px 1fr;
-    align-items: center;
-    padding: 15px;
 }
 header img {
     width: 120px;
