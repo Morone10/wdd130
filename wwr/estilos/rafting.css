@@ -31,7 +31,7 @@ nav, p, section, article {
     margin: 16px;
     padding: 8px;
 }
-.redes-sociais a {
+.socialmedia a {
     text-decoration: none;
 }
 .hero {
@@ -134,10 +134,10 @@ footer {
     align-items: center;
     padding: 15px;
 }
-.redes-sociais {
+.socialmedia {
     display: flex;
     gap: 15px;
 }
-.redes-sociais img {
+.socialmedia img {
     width: 35px;
 }
